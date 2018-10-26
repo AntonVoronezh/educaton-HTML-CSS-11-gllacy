@@ -4,7 +4,7 @@
 
 .hits {
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     display: flex;
     justify-content: space-evenly;
 }
