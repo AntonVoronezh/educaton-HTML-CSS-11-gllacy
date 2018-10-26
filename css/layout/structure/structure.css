@@ -23,18 +23,18 @@
 
 .wrapper__content {
     flex: 1 0 auto;
-    border: 1px solid #000000;
+    /* border: 1px solid #000000; */
 }
 
 .header {
     min-height: 75px;
-    border: 1px solid #000000;
+    /* border: 1px solid #000000; */
 }
 
 .footer {
     flex: 0 0 auto;
-    min-height: 100px;
-    border: 1px solid #000000;
+    min-height: 150px;
+    /* border: 1px solid #000000; */
 }
 
 .maincontent {
