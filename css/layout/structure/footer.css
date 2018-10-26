@@ -19,6 +19,7 @@
 }
 
 .footer-links {
+    flex-basis: 380px;
     border: 1px solid #000000;
 }
 
