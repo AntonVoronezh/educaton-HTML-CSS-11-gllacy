@@ -1,20 +1,27 @@
 /****************************
 **      AntonVoronezh
 ****************************/
-
+/* 
 @font-face {
     font-family: 'TitilliumWeb';
     src: url('fonts/TitilliumWeb-Regular.ttf');
     font-weight: normal;
     font-style: normal;
-}
+} */
 
-/* @font-face {
-    font-family: 'robotolight';
-    src: url('fonts/roboto-light_1-webfont.woff2') format('woff2'), url('../css/fonts/roboto-light_1-webfont.woff') format('woff');
+@font-face {
+    font-family: 'roboto';
+    src: url('fonts/roboto.woff2') format('woff2'), url('fonts/roboto.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-} */
+}
+
+@font-face {
+    font-family: 'roboto bold';
+    src: url('fonts/robotobold.woff2') format('woff2'), url('fonts/robotobold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Merriweather:400,700" rel="stylesheet">

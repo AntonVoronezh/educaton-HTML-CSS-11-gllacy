@@ -7,3 +7,20 @@
     align-items: center;
     justify-content: center;
 }
+
+.container--header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-header {
+border: 1px solid #000000;
+}
+
+.navigation {
+border: 1px solid #000000;
+}
+
+.search-inter {
+border: 1px solid #000000;
+}

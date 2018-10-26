@@ -6,13 +6,14 @@ html,
 body {
     width: 100%;
     height: 100%;
+    box-sizing: border-box;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #000000;
-    /* подключить  шрифт*/
-    /* font-family: 'TitilliumWeb', sans-serif; */
-    /* font-size: 0;
-    line-height: ; */
+        /* подключить  шрифт*/
+    font-family: 'roboto', sans-serif;
+    font-size: 16px;
+    line-height: 22px;
 }
 
 .visually-hidden {
@@ -24,6 +25,12 @@ body {
     border: 0;
     clip: rect(0, 0, 0, 0);
     overflow: hidden;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
 }
 
 /* --------------- reset.css --------------- */
@@ -210,6 +217,10 @@ img {
     display: table;
 }
 
+/* --------------- /базовые настройки ---------*/
+
+/* ------------/дополнительно--------------- */
+
 a {
     transition: color 1.1s;
 }
@@ -226,4 +237,6 @@ img {
     transition: opacity 1.1s;
 }
 
-/* --------------- /базовые настройки ---------*/
+.content-box-component {
+    box-sizing: content-box;
+}
