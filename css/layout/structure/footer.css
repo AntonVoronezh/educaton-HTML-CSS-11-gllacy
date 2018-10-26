@@ -7,3 +7,20 @@
     align-items: center;
     justify-content: center;
 }
+
+.container--footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.social {
+    border: 1px solid #000000;
+}
+
+.footer-links {
+    border: 1px solid #000000;
+}
+
+.signature {
+    border: 1px solid #000000;
+}
