@@ -15,14 +15,14 @@
 }
 
 .social {
-    border: 1px solid #000000;
+    /* border: 1px solid #000000; */
 }
 
 .footer-links {
     flex-basis: 380px;
-    border: 1px solid #000000;
+    /* border: 1px solid #000000; */
 }
 
 .signature {
-    border: 1px solid #000000;
+    /* border: 1px solid #000000; */
 }
