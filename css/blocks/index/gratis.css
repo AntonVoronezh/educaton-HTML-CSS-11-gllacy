@@ -1,0 +1,25 @@
+/****************************
+**      AntonVoronezh
+****************************/
+
+.gratis {
+    padding: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.gratis__raspberry {
+    width: 415px;
+    height: 220px;
+    border-radius: 15px;
+    border: 1px solid #000000;
+}
+
+.gratis__chocolate {
+    width: 415px;
+    height: 220px;
+    border-radius: 15px;
+    border: 1px solid #000000;
+}
