@@ -247,10 +247,10 @@ img {
     transition: opacity 1.1s;
 }
 
-a img {
+a.img {
     padding: 0;
 }
-a:hover img {
+a:hover.img {
     padding: 0;
 }
 
