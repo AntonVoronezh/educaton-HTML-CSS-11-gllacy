@@ -1,0 +1,15 @@
+/****************************
+**      AntonVoronezh
+****************************/
+
+.let-go-two {
+    padding-top: 20px;
+    background-image: 
+    url('../../../img/product-photo/1.png'),
+    url('../../../img/product-photo/2.png'),
+    url('../../../img/technical/2.png');
+    background-position:  30% 100%,  70% 100%, center center;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 320px auto,320px auto, cover ;
+}
+
